@@ -12,4 +12,4 @@
 위 공공데이터 및 Google API를 이용해 데이터 분석 및 시각화를 수행
 
 ### 아래 링크를 클릭해주세요
-[link]()
+[link](https://github.com/HyunSu-Jin/seoul_crime/blob/master/seoul_crime.ipynb)
