@@ -13,3 +13,11 @@
 
 ### 아래 링크를 클릭해주세요
 [Seoul_crime_analysis_link](https://github.com/HyunSu-Jin/seoul_crime/blob/master/seoul_crime.ipynb)
+
+## Data Visualizaton (jupyter 파일 내 folium,googlemaps에 대해 github에서 제공하지않음)
+- 서울시 각 구별 살인 횟수<br/>
+![img](img/img3.png)
+- 서울시 각 구별 검거율<br/>
+![img](img/img4.png)
+- 서울시 각 구별 살인 & 경찰서별 검거율<br/>
+![img](img/img5.png)
