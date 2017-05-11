@@ -1,4 +1,5 @@
 # seoul_crime
+프로젝트의 상세한 기술은 jupyter notebook 파일에 markdown으로 작성하였습니다.
 
 ## 정부 3.0 공공 데이터 ( http://data.go.kr )
 ![img](img/img1.png)
